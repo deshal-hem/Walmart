@@ -25,4 +25,4 @@ The aim of this project is to analyze the sales data of Walmart, a popular retai
 10. Calculate and display the monthly sales, previous month's sales and cumulative sales for each month.
 
 ## Solutions
-The solutions to be above questions can be found in the walmart_sql_solutions SQL file, which contains the SQL code used for querying.
+The solutions to be above questions can be found in the walmart_solutions SQL file, which contains the SQL code used for querying.
